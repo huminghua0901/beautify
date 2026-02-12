@@ -1,0 +1,15 @@
+{
+  "title": "户型图风水测试",
+  "subtitle": "上传户型图 + 地理信息，生成可商业化交付的风水报告",
+  "upload": "上传户型图",
+  "location": "国家/城市/小区/楼栋单元",
+  "residents": "居住人数",
+  "analyze": "开始分析",
+  "partialResult": "部分结果（完整版需解锁）",
+  "unlock": "解锁完整报告",
+  "language": "English",
+  "terms": "用户协议",
+  "privacy": "隐私政策",
+  "faq": "常见问题",
+  "disclaimer": "免责声明"
+}
