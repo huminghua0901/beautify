@@ -1,0 +1,15 @@
+{
+  "title": "Feng Shui Floorplan Analyzer",
+  "subtitle": "Upload a floorplan and location info to get a commercial-ready feng shui report",
+  "upload": "Upload floorplan",
+  "location": "Country / City / Community / Building / Unit",
+  "residents": "Number of residents",
+  "analyze": "Analyze",
+  "partialResult": "Partial results (unlock required for full report)",
+  "unlock": "Unlock full report",
+  "language": "中文",
+  "terms": "Terms",
+  "privacy": "Privacy",
+  "faq": "FAQ",
+  "disclaimer": "Disclaimer"
+}
